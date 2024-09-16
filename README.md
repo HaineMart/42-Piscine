@@ -1,3 +1,14 @@
-C00:  
-ex00: OK | ex01: OK | ex02: OK | ex03: OK | ex04: OK | ex05: OK | ex06: Nothing turned in | ex07: Nothing turned in | ex08: Nothing turned in  
-60/100
+S00: 50/100  
+C00: 60/100  
+C01: 70/100  
+C02: 60/100  
+C03: 50/100  
+C04: 70/100  
+C05: 50/100  
+C06: 70/100  
+C07: 60/100  
+Rush 00: 116/100  
+Exam00: 30/100  
+Exam01: 40/100  
+Exam02: 20/100  
+Final Exam: 36/100
